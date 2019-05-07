@@ -1,4 +1,4 @@
-# Backquotes Italics and Bold Text
+# Backquotes, Italics and Bold Text
 
  To quote 
 
